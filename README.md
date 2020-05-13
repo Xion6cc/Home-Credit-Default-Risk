@@ -1,5 +1,6 @@
 # Home-Credit-Default-Risk
 
+![1589402813(1)](https://user-images.githubusercontent.com/47108273/81863557-0cdd7e80-9531-11ea-8c01-6c5f5e3056fa.jpg)
 
 ## Business Background
 As an international consumer finance provider, Home Credit offers affordable point-of-sale loan, cash loan and revolving loan product 
